@@ -62,3 +62,4 @@ if __name__=="__main__":
     print(pop)
     print("Populatia recombinata:")
     print(recombinare(pop, 0.5))
+    print(np.random.randint(1, 4))
